@@ -54,7 +54,6 @@ Check the `scripts` section of `package.json` for the exact commands available, 
 .
 ├── package.json     # Dependencies and scripts
 ├── src/             # Application source code
-├── assets/banner.svg # README banner
 └── LICENSE
 ```
 
